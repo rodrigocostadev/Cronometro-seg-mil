@@ -1,3 +1,3 @@
 Link do projeto:
 
-https://counter-job.netlify.app/
+https://cronometro-seg-mil.netlify.app/
